@@ -1,3 +1,4 @@
+Programmi aluseks on: https://data-flair.training/blogs/address-book-in-python/
 1) Muutsin kasutajaliidese eestikeelseks
 2) Muutsin kasutajaliidese dimensioone
 3) Lisasin uued fondi väärtused, millega saab vajadusel muuta kõik fondid koheselt ühesuguseks
