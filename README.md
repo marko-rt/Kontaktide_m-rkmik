@@ -4,7 +4,7 @@
 4) Muutsin kontaktide märkmiku värviskeemi Astangu kooli värvidega sarnaseks
 5) Lisasin "Aadressi" välja, mis salvestab ka aadressi
 6) Lisasin "E-maili" välja, mis salvestab ka emaili
-7) Lisasin "Ekspordi" nupu funktsiooni, mis salvestab kõik olemasolevad või lisatud kontaktid tekstifaili (või vajadusel csv faili)
+7) Lisasin "Ekspordi" funktsiooni ja nupu, mis salvestab kõik olemasolevad või lisatud kontaktid tekstifaili (või vajadusel csv faili)
 8) Muutsin nuppude paigutust, dimensioone ja värve
 9) Muutsin sisestusväljade paigutust ja dimensioone
 10) Lisasin funktsiooniga Astangu logo programmi akna ülemisele osale
