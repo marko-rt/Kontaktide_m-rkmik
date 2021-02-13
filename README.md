@@ -1,7 +1,7 @@
 Programmi aluseks on: https://data-flair.training/blogs/address-book-in-python/
 1) Muutsin kasutajaliidese eestikeelseks
 2) Muutsin kasutajaliidese dimensioone
-3) Lisasin uued värvi ja fondi väärtused, millega saab vajadusel lihtsamalt muuta kasutajaliidest vastavalt soovile
+3) Lisasin uued värvi ja fondi muutujad, millega saab vajadusel lihtsamalt muuta kasutajaliidest vastavalt soovile
 4) Muutsin kontaktide märkmiku värviskeemi Astangu kooli värvidega sarnaseks
 5) Lisasin "Aadressi" välja, mis salvestab ka aadressi
 6) Lisasin "E-maili" välja, mis salvestab ka emaili
