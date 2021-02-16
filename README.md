@@ -1,4 +1,4 @@
-Programmi aluseks on: https://data-flair.training/blogs/address-book-in-python/
+Projekti aluseks on: https://data-flair.training/blogs/address-book-in-python/
 1) Muutsin kasutajaliidese eestikeelseks
 2) Muutsin kasutajaliidese dimensioone
 3) Lisasin uued värvi ja fondi muutujad, millega saab vajadusel lihtsamalt muuta kasutajaliidest vastavalt soovile
